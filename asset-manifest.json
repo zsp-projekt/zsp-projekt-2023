@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/zsp-projekt-2023/static/css/main.8fcc746a.css",
-    "main.js": "/zsp-projekt-2023/static/js/main.0d526e63.js",
+    "main.js": "/zsp-projekt-2023/static/js/main.d0c5c7c2.js",
     "static/media/erasmus-banner-projekt.png": "/zsp-projekt-2023/static/media/erasmus-banner-projekt.1a014dcdbea75d946640.png",
     "static/media/logo-txt.png": "/zsp-projekt-2023/static/media/logo-txt.e4587e5d0eb268209734.png",
     "static/media/logo.png": "/zsp-projekt-2023/static/media/logo.52deb9879b9bd69dba77.png",
     "index.html": "/zsp-projekt-2023/index.html",
     "main.8fcc746a.css.map": "/zsp-projekt-2023/static/css/main.8fcc746a.css.map",
-    "main.0d526e63.js.map": "/zsp-projekt-2023/static/js/main.0d526e63.js.map"
+    "main.d0c5c7c2.js.map": "/zsp-projekt-2023/static/js/main.d0c5c7c2.js.map"
   },
   "entrypoints": [
     "static/css/main.8fcc746a.css",
-    "static/js/main.0d526e63.js"
+    "static/js/main.d0c5c7c2.js"
   ]
 }
