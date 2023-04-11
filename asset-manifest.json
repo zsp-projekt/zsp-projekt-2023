@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/static/css/main.8fcc746a.css",
-    "main.js": "/static/js/main.6d167b44.js",
-    "static/media/erasmus-banner-projekt.png": "/static/media/erasmus-banner-projekt.1a014dcdbea75d946640.png",
-    "static/media/logo-txt.png": "/static/media/logo-txt.e4587e5d0eb268209734.png",
-    "static/media/logo.png": "/static/media/logo.52deb9879b9bd69dba77.png",
-    "index.html": "/index.html",
-    "main.8fcc746a.css.map": "/static/css/main.8fcc746a.css.map",
-    "main.6d167b44.js.map": "/static/js/main.6d167b44.js.map"
+    "main.css": "/zsp-projekt-2023/static/css/main.8fcc746a.css",
+    "main.js": "/zsp-projekt-2023/static/js/main.55e5f6eb.js",
+    "static/media/erasmus-banner-projekt.png": "/zsp-projekt-2023/static/media/erasmus-banner-projekt.1a014dcdbea75d946640.png",
+    "static/media/logo-txt.png": "/zsp-projekt-2023/static/media/logo-txt.e4587e5d0eb268209734.png",
+    "static/media/logo.png": "/zsp-projekt-2023/static/media/logo.52deb9879b9bd69dba77.png",
+    "index.html": "/zsp-projekt-2023/index.html",
+    "main.8fcc746a.css.map": "/zsp-projekt-2023/static/css/main.8fcc746a.css.map",
+    "main.55e5f6eb.js.map": "/zsp-projekt-2023/static/js/main.55e5f6eb.js.map"
   },
   "entrypoints": [
     "static/css/main.8fcc746a.css",
