@@ -1,16 +1,26 @@
 {
   "files": {
-    "main.css": "/zsp-projekt-2023/static/css/main.8fcc746a.css",
-    "main.js": "/zsp-projekt-2023/static/js/main.3266ea06.js",
-    "static/media/erasmus-banner-projekt.png": "/zsp-projekt-2023/static/media/erasmus-banner-projekt.1a014dcdbea75d946640.png",
-    "static/media/logo-txt.png": "/zsp-projekt-2023/static/media/logo-txt.e4587e5d0eb268209734.png",
-    "static/media/logo.png": "/zsp-projekt-2023/static/media/logo.52deb9879b9bd69dba77.png",
+    "main.css": "/zsp-projekt-2023/static/css/main.26b349fa.css",
+    "main.js": "/zsp-projekt-2023/static/js/main.366a6336.js",
+    "static/media/ulotka_front.jpg": "/zsp-projekt-2023/static/media/ulotka_front.f127e328b4c13b7121ca.jpg",
+    "static/media/san_marino_5.jpg": "/zsp-projekt-2023/static/media/san_marino_5.8c744352ac882545ff0a.jpg",
+    "static/media/ulotka_back.jpg": "/zsp-projekt-2023/static/media/ulotka_back.3cb209b34ab092d5310c.jpg",
+    "static/media/339731727_621824943296754__n.jpg": "/zsp-projekt-2023/static/media/339731727_621824943296754_3976686423984603631_n.28d71917ec68062b20cd.jpg",
+    "static/media/san_marino_1.jpg": "/zsp-projekt-2023/static/media/san_marino_1.d949788b7419b7ad3a17.jpg",
+    "static/media/san_marino_3.jpg": "/zsp-projekt-2023/static/media/san_marino_3.23797096324b7f661735.jpg",
+    "static/media/san_marino_4.jpg": "/zsp-projekt-2023/static/media/san_marino_4.6b91474515b774626417.jpg",
+    "static/media/340220609_953004922799556__n.jpg": "/zsp-projekt-2023/static/media/340220609_953004922799556_8873225374493544035_n.f8f95b08a7de03d6497e.jpg",
+    "static/media/san_marino_2.jpg": "/zsp-projekt-2023/static/media/san_marino_2.f953b8fb9637dfecdbdd.jpg",
+    "static/media/logo-txt-black.svg": "/zsp-projekt-2023/static/media/logo-txt-black.0e5e5be573976d445b753b7d1dec8c89.svg",
+    "static/media/erasmus-banner-projekt.png": "/zsp-projekt-2023/static/media/erasmus-banner-projekt.e91de59dffab75204c74.png",
+    "static/media/erasmus-banner-projekt-mobile.png": "/zsp-projekt-2023/static/media/erasmus-banner-projekt-mobile.92ccc852d1287b97cf10.png",
+    "static/media/hamburger.svg": "/zsp-projekt-2023/static/media/hamburger.c1e9524701c7fdf04fb22db8b709cb0e.svg",
     "index.html": "/zsp-projekt-2023/index.html",
-    "main.8fcc746a.css.map": "/zsp-projekt-2023/static/css/main.8fcc746a.css.map",
-    "main.3266ea06.js.map": "/zsp-projekt-2023/static/js/main.3266ea06.js.map"
+    "main.26b349fa.css.map": "/zsp-projekt-2023/static/css/main.26b349fa.css.map",
+    "main.366a6336.js.map": "/zsp-projekt-2023/static/js/main.366a6336.js.map"
   },
   "entrypoints": [
-    "static/css/main.8fcc746a.css",
-    "static/js/main.3266ea06.js"
+    "static/css/main.26b349fa.css",
+    "static/js/main.366a6336.js"
   ]
 }
