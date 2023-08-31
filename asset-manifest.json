@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/zsp-projekt-2023/static/css/main.2a516701.css",
-    "main.js": "/zsp-projekt-2023/static/js/main.adfe4a4a.js",
+    "main.js": "/zsp-projekt-2023/static/js/main.9f56bfd3.js",
     "static/media/ulotka_front.jpg": "/zsp-projekt-2023/static/media/ulotka_front.f127e328b4c13b7121ca.jpg",
     "static/media/san_marino_5.jpg": "/zsp-projekt-2023/static/media/san_marino_5.8c744352ac882545ff0a.jpg",
     "static/media/ulotka_back.jpg": "/zsp-projekt-2023/static/media/ulotka_back.3cb209b34ab092d5310c.jpg",
@@ -21,10 +21,10 @@
     "static/media/hamburger.svg": "/zsp-projekt-2023/static/media/hamburger.c1e9524701c7fdf04fb22db8b709cb0e.svg",
     "index.html": "/zsp-projekt-2023/index.html",
     "main.2a516701.css.map": "/zsp-projekt-2023/static/css/main.2a516701.css.map",
-    "main.adfe4a4a.js.map": "/zsp-projekt-2023/static/js/main.adfe4a4a.js.map"
+    "main.9f56bfd3.js.map": "/zsp-projekt-2023/static/js/main.9f56bfd3.js.map"
   },
   "entrypoints": [
     "static/css/main.2a516701.css",
-    "static/js/main.adfe4a4a.js"
+    "static/js/main.9f56bfd3.js"
   ]
 }
