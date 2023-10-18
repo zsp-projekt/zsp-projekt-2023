@@ -1,20 +1,40 @@
 {
   "files": {
     "main.css": "/zsp-projekt-2023/static/css/main.3c817135.css",
-    "main.js": "/zsp-projekt-2023/static/js/main.d4a55f89.js",
+    "main.js": "/zsp-projekt-2023/static/js/main.8546934a.js",
+    "static/media/santarcangelo_4.jpg": "/zsp-projekt-2023/static/media/santarcangelo_4.cb2b248b78c7bd6390e4.jpg",
     "static/media/ulotka_front.jpg": "/zsp-projekt-2023/static/media/ulotka_front.f127e328b4c13b7121ca.jpg",
+    "static/media/bolonia_1.jpg": "/zsp-projekt-2023/static/media/bolonia_1.a79ac98ffdc09390d0eb.jpg",
     "static/media/san_marino_5.jpg": "/zsp-projekt-2023/static/media/san_marino_5.8c744352ac882545ff0a.jpg",
     "static/media/ulotka_back.jpg": "/zsp-projekt-2023/static/media/ulotka_back.3cb209b34ab092d5310c.jpg",
+    "static/media/rimini_noc_1.jpg": "/zsp-projekt-2023/static/media/rimini_noc_1.41657d8543c58fde93f8.jpg",
+    "static/media/santarcangelo_2.jpg": "/zsp-projekt-2023/static/media/santarcangelo_2.15146c75cfc1e4b86c24.jpg",
+    "static/media/santarcangelo_3.jpg": "/zsp-projekt-2023/static/media/santarcangelo_3.10db9a42b7f980b5edd5.jpg",
+    "static/media/fellini_2.jpg": "/zsp-projekt-2023/static/media/fellini_2.1dbc35a36dbab1bf4afd.jpg",
+    "static/media/santarcangelo_1.jpg": "/zsp-projekt-2023/static/media/santarcangelo_1.81e7402ca6ea0de86b92.jpg",
+    "static/media/florencja_2.jpg": "/zsp-projekt-2023/static/media/florencja_2.ae0c5c038dbf7766233d.jpg",
+    "static/media/florencja_3.jpg": "/zsp-projekt-2023/static/media/florencja_3.e409b3f6e0b6a9da433a.jpg",
+    "static/media/bolonia_2.jpg": "/zsp-projekt-2023/static/media/bolonia_2.41d94e24c19c9c6b25ed.jpg",
     "static/media/339731727_621824943296754__n.jpg": "/zsp-projekt-2023/static/media/339731727_621824943296754_3976686423984603631_n.28d71917ec68062b20cd.jpg",
+    "static/media/bolonia_4.jpg": "/zsp-projekt-2023/static/media/bolonia_4.93bbb284dee9768c8761.jpg",
+    "static/media/fellini_3.jpg": "/zsp-projekt-2023/static/media/fellini_3.fd0d452637c8b61928dd.jpg",
+    "static/media/rimini_noc_2.jpg": "/zsp-projekt-2023/static/media/rimini_noc_2.e2dfe66b43b890d588a3.jpg",
     "static/media/san_marino_1.jpg": "/zsp-projekt-2023/static/media/san_marino_1.d949788b7419b7ad3a17.jpg",
     "static/media/san_marino_3.jpg": "/zsp-projekt-2023/static/media/san_marino_3.23797096324b7f661735.jpg",
     "static/media/san_marino_4.jpg": "/zsp-projekt-2023/static/media/san_marino_4.6b91474515b774626417.jpg",
+    "static/media/rimini_noc_3.jpg": "/zsp-projekt-2023/static/media/rimini_noc_3.e31e8849faebb4aad8e9.jpg",
+    "static/media/rimini_noc_4.jpg": "/zsp-projekt-2023/static/media/rimini_noc_4.77bdb18e66f69feab002.jpg",
+    "static/media/florencja_4.jpg": "/zsp-projekt-2023/static/media/florencja_4.18753e71fa5103be1758.jpg",
+    "static/media/bolonia_3.jpg": "/zsp-projekt-2023/static/media/bolonia_3.77b59f0fef8740b08ef3.jpg",
     "static/media/351543792___n.jpg": "/zsp-projekt-2023/static/media/351543792_1052790809435068_2411836059797046529_n.26c3f56636232853db0e.jpg",
     "static/media/351890038_950251952792359__n.jpg": "/zsp-projekt-2023/static/media/351890038_950251952792359_82998329053146537_n.8c53cf986fd72c4261da.jpg",
     "static/media/351098134_489347313365793__n.jpg": "/zsp-projekt-2023/static/media/351098134_489347313365793_1468522159995429987_n.6183de4e646404d854e5.jpg",
+    "static/media/florencja_1.jpg": "/zsp-projekt-2023/static/media/florencja_1.1fe834178e0d21607917.jpg",
     "static/media/340220609_953004922799556__n.jpg": "/zsp-projekt-2023/static/media/340220609_953004922799556_8873225374493544035_n.f8f95b08a7de03d6497e.jpg",
     "static/media/351541604_540036778160076__n.jpg": "/zsp-projekt-2023/static/media/351541604_540036778160076_323925016334987893_n.4aa1764b4a6c5bd3d63d.jpg",
     "static/media/san_marino_2.jpg": "/zsp-projekt-2023/static/media/san_marino_2.f953b8fb9637dfecdbdd.jpg",
+    "static/media/fellini_1.jpg": "/zsp-projekt-2023/static/media/fellini_1.4d284a32c60559d534ac.jpg",
+    "static/media/fellini_4.jpg": "/zsp-projekt-2023/static/media/fellini_4.5d73f1daa191e8a007d5.jpg",
     "static/media/375702366___n.jpg": "/zsp-projekt-2023/static/media/375702366_1381951222440505_3585860497193511189_n.a666b674b94edfbe10b5.jpg",
     "static/media/375578966___n.jpg": "/zsp-projekt-2023/static/media/375578966_1079632816530481_2546675746745011352_n.b9388ab07c6adb39ad30.jpg",
     "static/media/375668723_663657349050773__n.jpg": "/zsp-projekt-2023/static/media/375668723_663657349050773_8487244767553921922_n.49790fdb53d95ea982ee.jpg",
@@ -25,10 +45,10 @@
     "static/media/hamburger.svg": "/zsp-projekt-2023/static/media/hamburger.c1e9524701c7fdf04fb22db8b709cb0e.svg",
     "index.html": "/zsp-projekt-2023/index.html",
     "main.3c817135.css.map": "/zsp-projekt-2023/static/css/main.3c817135.css.map",
-    "main.d4a55f89.js.map": "/zsp-projekt-2023/static/js/main.d4a55f89.js.map"
+    "main.8546934a.js.map": "/zsp-projekt-2023/static/js/main.8546934a.js.map"
   },
   "entrypoints": [
     "static/css/main.3c817135.css",
-    "static/js/main.d4a55f89.js"
+    "static/js/main.8546934a.js"
   ]
 }
